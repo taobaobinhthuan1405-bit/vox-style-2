@@ -1,0 +1,4 @@
+# The quality-gate launcher and this ownership rule are trusted controls.
+# A pull-request author cannot approve their own protected-file change.
+/.github/workflows/ @taobaobinhthuan1405-bit
+/.github/CODEOWNERS @taobaobinhthuan1405-bit
